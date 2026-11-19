@@ -1,4 +1,5 @@
-# Crypto Fee Calculator Pro
-Herramienta web gratuita para cálculo de comisiones en transferencias blockchain.
-Soporta TRC20, Polygon y BEP20.
-Para soporte prioritario y acceso avanzado, apoya el proyecto vía [PayPal](https://paypal.me/LucianoBenechCenoz).
+# crypto-fee-calculator-pro
+
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
